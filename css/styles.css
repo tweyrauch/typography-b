@@ -1,0 +1,19 @@
+/* Your Website Styles */
+
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
+
+h1{
+	font-family: 'Trade Winds', cursive;
+}
+
+h3{
+	font-family: 'Trade Winds', cursive;
+}
+
+p{
+	font-family: 'Molengo', sans-serif;
+}
